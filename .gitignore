@@ -1,3 +1,4 @@
 .idea
 client-microservice/.gradle
 client-microservice/build
+client-microservice/.idea
